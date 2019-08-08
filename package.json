@@ -1,7 +1,7 @@
 {
-  "name": "ali-oss",
-  "version": "6.1.1",
-  "description": "aliyun oss(object storage service) node client",
+  "name": "@xiaocaibird/ali-oss",
+  "version": "6.1.2",
+  "description": "fork ali-oss(6.1.1)",
   "main": "lib/client.js",
   "files": [
     "lib",
