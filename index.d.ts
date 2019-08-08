@@ -821,8 +821,8 @@ declare class OSS {
         uploadId: string,
         partNo: number,
         file: any,
-        start: number,
-        end: number,
+        start?: number,
+        end?: number,
         options?: OSS.RequestOptions
     ): Promise<OSS.UploadPartResult>;
 
