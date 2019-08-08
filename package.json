@@ -6,7 +6,8 @@
   "files": [
     "lib",
     "shims",
-    "dist"
+    "dist",
+    "index.d.ts"
   ],
   "browser": {
     "lib/client.js": "./dist/aliyun-oss-sdk.js",
